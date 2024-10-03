@@ -1,4 +1,4 @@
-# precedural_trees_threejs
+# precedural_houses_threejs
 experiment 
 using Procedural Three js 
 
